@@ -1,3 +1,5 @@
+# A test script to visualize the function which is converting from wavelength to visible spectrum in rgb
+
 import pygame
 from pygame.locals import *
 
